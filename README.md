@@ -4,7 +4,7 @@ You have to install packages with npm install.
 
 ## Db.Json (Json-Server)
 
-You need to watch db.json fil with json-server. 
+You need to watch db.json file with json-server. 
 
 In the project directory, you can run:
 
